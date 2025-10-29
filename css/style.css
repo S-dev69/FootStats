@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+header h1 { color: #2E86C1; }
+nav a { margin: 0 10px; text-decoration: none; color: #34495E; }
+nav a:hover { text-decoration: underline; }
