@@ -1,2 +1,2 @@
 # FootStats
-Projet personnel pour consulter et analyser les performances des joueurs et clubs de foot
+Personal Project for analyzing football clubs/ players in a web page dashboard
